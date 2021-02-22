@@ -1,0 +1,2 @@
+Write a Python program to find whether a given string starts with a given character using Lambda.
+x = lambda x : True a.startwith('p') else false
